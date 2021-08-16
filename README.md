@@ -6,7 +6,6 @@ Here's a little about me.
 - 20 year old
 - CSE Undergrad
 - Machine Learning Enthusiast
-- Competitive Programmer
 - Institute of Engineering and Management, Kolkata
 - 2019-2023
 
