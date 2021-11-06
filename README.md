@@ -43,3 +43,9 @@ src="https://upload.wikimedia.org/wikipedia/commons/5/53/OpenCV_Logo_with_text.p
 <img src=https://img.shields.io/badge/github-%C0C0C0.svg?&style=for-the-badge&logo=github&logoColor=white alt=Linkedin style="margin-bottom: 5px;" />
 </a>
 </div>
+
+
+** **
+**Github Metrics**
+** **
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TithiSreemany&count_private=true&theme=radical" alt="TithiSreemany" />
