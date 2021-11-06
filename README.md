@@ -45,7 +45,4 @@ src="https://upload.wikimedia.org/wikipedia/commons/5/53/OpenCV_Logo_with_text.p
 </div>
 
 
-** **
-**Github Metrics**
-** **
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TithiSreemany&count_private=true&theme=radical" alt="TithiSreemany" />
+
