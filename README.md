@@ -30,8 +30,10 @@ src="https://upload.wikimedia.org/wikipedia/commons/5/53/OpenCV_Logo_with_text.p
 </p>                                                                                                                                                 
 
 ## Technical Blogs
-Apart from coding, I also enjoy writing. Plus it's a wonderful way to help others as well as to hone my one skills.
+Apart from coding, I also enjoy writing. I think it's a wonderful way to help others as well as to hone my one skills.
+  
 You can find my technical Blogs here : https://www.analyticsvidhya.com/blog/author/Tithi_Sreemany
+
 Happy Reading!
   
 <h2 align="center" >Github Metrics</h2>
