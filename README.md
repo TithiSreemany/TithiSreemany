@@ -26,10 +26,14 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png">&nbsp;&nbsp;<img height="45" 
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png">&nbsp;&nbsp;<img height="45" 
 src="https://cdn.analyticsvidhya.com/wp-content/uploads/2017/12/16223353/pytorch-logo-flat.png">&nbsp;&nbsp;<img height="45"
-src="https://upload.wikimedia.org/wikipedia/commons/5/53/OpenCV_Logo_with_text.png">&nbsp;&nbsp;<img height="45"                                                                                               
+src="https://upload.wikimedia.org/wikipedia/commons/5/53/OpenCV_Logo_with_text.png">&nbsp;&nbsp;<img height="45"
 </p>                                                                                                                                                 
 
-
+## Technical Blogs
+Apart from coding, I also enjoy writing. Plus it's a wonderful way to help others as well as to hone my one skills.
+You can find my technical Blogs here : https://www.analyticsvidhya.com/blog/author/Tithi_Sreemany
+Happy Reading!
+  
 <h2 align="center" >Github Metrics</h2>
 <div align="center">
 
