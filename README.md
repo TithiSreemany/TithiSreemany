@@ -29,10 +29,15 @@ src="https://cdn.analyticsvidhya.com/wp-content/uploads/2017/12/16223353/pytorch
 src="https://upload.wikimedia.org/wikipedia/commons/5/53/OpenCV_Logo_with_text.png">&nbsp;&nbsp;<img height="45"                                                                                               
 </p>                                                                                                                                                 
 
+
+<h2 align="center" >Github Metrics</h2>
+<div align="center">
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TithiSreemany&count_private=true&theme=radical" alt="TithiSreemany" />
+</div>
   
 <h2 align="center" >Connect with me</h2>
 <div align="center">
-
 <a href="tithisreemany@gmail.com?hl=en" target="_blank">
 <img src=https://img.shields.io/badge/gmail-%23DC493C.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
 </a> 
@@ -43,6 +48,3 @@ src="https://upload.wikimedia.org/wikipedia/commons/5/53/OpenCV_Logo_with_text.p
 <img src=https://img.shields.io/badge/github-%C0C0C0.svg?&style=for-the-badge&logo=github&logoColor=white alt=Linkedin style="margin-bottom: 5px;" />
 </a>
 </div>
-
-
-
